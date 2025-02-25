@@ -7,3 +7,8 @@ The code aims to create payment routes through QR code generation and the use of
 ```
 pip install -r requirements.txt
 ```
+
+### Run app
+```
+pyhton app.py
+```
