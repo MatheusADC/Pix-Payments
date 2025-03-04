@@ -12,3 +12,11 @@ pip install -r requirements.txt
 ```
 pyhton app.py
 ```
+
+### Run Unit Tests
+```
+pytest test_pix.py -v
+```
+
+>[!IMPORTANT]
+>The test command must be executed in the ```tests``` folder.
